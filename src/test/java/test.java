@@ -2,6 +2,8 @@ import org.junit.Test;
 import org.mockito.Mockito;
 
 
+import java.util.LinkedList;
+
 import static junit.framework.TestCase.assertEquals;
 import static org.mockito.Mockito.mock;
 
